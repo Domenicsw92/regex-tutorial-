@@ -42,7 +42,7 @@ The third, [a-z.], - indicates that any character between a and z will be matche
 The preceding \ the dash and period "escapes" these letters, indicating that the dash and period are not regex special characters. There's no need to remove the period between the square brackets.
 
 ### Conclusion 
-This course dissected an email matching regex and its components. These components are divided into three primary groups that comprise our validation expressions. These capture groups are separated by parenthesis, and our entire expression includes the commercial at @ symbol, which looks for this character.
+This tutorial dissected an email matching regex and its components. These components are divided into three primary groups that comprise our validation expressions. These capture groups are separated by parenthesis, and our entire expression includes the commercial at @ symbol, which looks for this character.
 
 ### Refences 
 https://support.google.com/a/answer/1371417?hl=en
